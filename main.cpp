@@ -1,3 +1,15 @@
+/*Term 1: 3.5x^2
+Term 2: 2x^2
+Compatible: 1
+Simplified p1: 3x^2 + 3x
+p2: 1x^3 + 4x
+p1 + p2 = 3x^2 + 7x + 1x^3
+p1 - p2 = 3x^2 + -1x + -1x^3
+p1 * p2 = 3x^5 + 12x^3 + 3x^4 + 12x^2*/
+
+
+
+
 #include <iostream>
 #include "Term.h"
 #include "Polynomial.h"
